@@ -1,5 +1,5 @@
 <h1 align="center">
-Rthswap [Whitepaper]
+Retherswap [Whitepaper]
 <br/><br/>
 <img src="" />
 <img src="" />
